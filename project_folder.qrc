@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/">
+    <file>radiateur.jpg</file>
+    <file>infoo.png</file>
+    <file>logo.png</file>
+  </qresource>
+</RCC>

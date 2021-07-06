@@ -1,0 +1,3 @@
+{
+    "files": ["main.py","thermo_user_interface.ui","../s7_ips/IHM/thermocouple/project_folder.qrc"]
+}
